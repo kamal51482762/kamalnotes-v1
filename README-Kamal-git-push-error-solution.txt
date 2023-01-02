@@ -68,3 +68,27 @@ NOTE:
 
 
 
+kamall@blrzfadap03:~/Desktop/kamal-git/kamalnotes-v1$ git push -f  -u origin main
+Username for 'https://github.com': kamal51482762
+Password for 'https://kamal51482762@github.com':
+Counting objects: 7, done.
+Delta compression using up to 6 threads.
+Compressing objects: 100% (6/6), done.
+Writing objects: 100% (7/7), 5.70 KiB | 5.71 MiB/s, done.
+Total 7 (delta 0), reused 0 (delta 0)
+To https://github.com/kamal51482762/kamalnotes-v1.git
+ + 05cc041...d576599 main -> main (forced update)
+Branch 'main' set up to track remote branch 'main' from 'origin'.
+kamall@blrzfadap03:~/Desktop/kamal-git/kamalnotes-v1$ ls
+platform
+
+Yahan par -f or -force ko lagakar me push kiya toh ye push hojayega ok ...
+
+but yahan par sirf tuhara chnages hi wah gitgub mein rahegan ...jo v chnages koi v admi kiya hai toh wah chnages chala jayega ok ...sirf tumhara forced chnages hi rahega ...
+
+ye forced pushing kavi mat karna ok ...
+
+
+
+
+
