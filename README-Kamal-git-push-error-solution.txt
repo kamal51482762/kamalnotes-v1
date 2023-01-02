@@ -90,5 +90,12 @@ ye forced pushing kavi mat karna ok ...
 
 
 
+NOTE:
+
+git pull origin master --rebase
+
+git fetch origin
+
+git pull
 
 
