@@ -7,6 +7,7 @@ github_pat_11ACNO2HA0yzhsLGhd8I4e_CMngdFhp6kjvGH3ovtB7rCyl4wEYBpuSltyqvb5Z57SYJU
 
 Error:
 
+![image](https://user-images.githubusercontent.com/10153244/210203542-04d6bbc2-2e99-4b66-91ef-69bd5461b256.png)
 
 
 sumiama@sumiama-Vostro-15-3568:~/Desktop/kamalnotes-v1$ git push -u origin main
